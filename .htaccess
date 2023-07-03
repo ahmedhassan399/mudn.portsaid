@@ -1,0 +1,2 @@
+ErrorDocument 404 "<h1> error </h1><a href='./index.php'>go back </a>"
+ErrorDocument 403 "<h1> error</h1><a href='./index.php'>go back </a>"
